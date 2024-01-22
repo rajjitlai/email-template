@@ -147,6 +147,11 @@ footer .footerLinks{
     align-items: center;
 }
 
+footer a{
+    color: #fff;
+    text-decoration: none;
+}
+
 footer .footerLinks img{
     width: 2.5rem;
 }
